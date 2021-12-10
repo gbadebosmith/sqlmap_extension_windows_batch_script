@@ -1,6 +1,6 @@
 # sqlmap automation via batch file
-sqlmap automation via batch file. just enter file with get request.
-
+sqlmap automation via batch file. just enter file with post or get request.
+works particularly we with post requests.
 instructions:
 0.> open shell
 1.> .\Batch__sqlmap_dbms_os_traversal.bat
